@@ -1,0 +1,11 @@
+css variable and form validation doc. pora
+
+Meta tag generator to generate meta tags for my website
+
+
+Extra small	None	<576px
+Small	sm	≥576px
+Medium	md	≥768px
+Large	lg	≥992px
+Extra large	xl	≥1200px
+Extra extra large	xxl	≥1400px

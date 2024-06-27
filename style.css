@@ -1,0 +1,39 @@
+
+.box{
+    min-height: 100px;
+    background-color: skyblue;
+    border: 5px solid green;
+}
+.container{
+    max-width: 1320px;
+        padding-top: 47px;
+        background-color: pink;
+        padding-bottom: 20px;
+        margin-top: 45px;
+}
+.hero_row{
+    display: inline;
+}
+.col-lg{
+    color: red;
+}
+.box_red{
+    min-height: 150px;
+    background-color: red;
+    border: 5px solid green;
+}
+.box1{
+    min-height: 150px;
+    background-color: skyblue;
+    border: 5px solid green;}
+    .box_sky{
+
+    min-height: 150px;
+    background-color: skyblue;
+    border: 5px solid green;}
+    .box_f{
+        min-height: 50px;
+    background-color: skyblue;
+    /* border: 5px solid green; */
+    }
+    
